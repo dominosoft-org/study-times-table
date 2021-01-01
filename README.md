@@ -9,6 +9,11 @@
 
 Android、およびWindowsのChrome／Edgeブラウザ。
 
+### Androidでマイク入力を有効にする方法
+
+1. テストを開始すると、マイクを許可するかのダイアログが出るので許可する。
+2. 機種によっては、上記設定をしてもマイク許可にならないケースがあるので、その場合は、[公式マニュアル](https://support.google.com/chrome/answer/2693767?co=GENIE.Platform%3DAndroid&hl=ja&oco=1)を参考に設定する。
+
 ## 備考
 
 - 9の回答に「く」を発声すると認識しづらいので、「きゅう」と発声してください。
